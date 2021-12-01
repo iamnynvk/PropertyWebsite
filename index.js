@@ -1,5 +1,5 @@
 console.log("Welcome to OwnProperty.com");
-
+let data = [];
 // not working
 // let json = require('./data.json');
 // console.log(json, 'the json obj');
@@ -9,7 +9,7 @@ function readTextFile(file, callback) {
     xhr.overrideMimeType("application/json");
     xhr.open("GET", file, true);
     xhr.onload = function() {
-        if (xhr.readyState === 4 && xhr.status == "200") {
+        if (xhr.status == "200") {
             callback(xhr.responseText);
         }
     }
@@ -17,9 +17,8 @@ function readTextFile(file, callback) {
 }
 
 readTextFile("./data.json", function(text){
-    var data = JSON.parse(text);
-    console.log(data);
-    console.log(typeof data);
+    data = JSON.parse(text);
+    console.log(text);
 });
 
 

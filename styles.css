@@ -1,1 +1,76 @@
-hi
+/* background image : https://c.housingcdn.com/demand/s/common/assets/defaultBanner.318ea184.jpg */
+
+/* *{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+} */
+.herobox{
+    height: 50vh;
+    background-image: url("https://c.housingcdn.com/demand/s/common/assets/defaultBanner.318ea184.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 50vh;
+}
+.downlaodApp{
+    color: white;
+    border-bottom: none;
+    text-decoration: none;
+}
+.list{
+    background-color: white;
+    color: #5e23dc;
+}
+.listProperty{
+    background-color: white;
+    width: 165px;
+    border-radius: 5px;
+}
+.leftSection a label{
+    color: #5e23dc;
+    background-color: white;
+}
+.newLabel{
+    color: white;
+    font: 10.5px;
+    background-color: #F22B68;
+    margin: 0px 0px 0px 6px;
+    padding: 0px 6px;
+    border-radius: 2px;
+}
+.headerSection a{
+    text-decoration: none;
+}
+.fav{
+    color: white;
+}
+.news{
+    color: white;
+}
+.login{
+    color: white;
+}
+.headingText h1{
+    color: white;
+}
+.headingText{
+    margin-top: 100px;
+    text-align: center;
+}
+.subText h3{
+    color: white;
+    font-size: 20px;
+}
+.subText{
+    margin-top: 20px;
+    text-align: center;
+}
+.searchSection{
+    background-color: rgba(0,0,0,0.5);
+    height: 100px;
+    width: 40%;
+    
+}
+.buy{
+    color: white;
+}

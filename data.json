@@ -1,40 +1,38 @@
-{
-	"Propoperty" : [
-		{
-			"id" : 1,
-			"area" : "Bapunagar",
-			"price" : 2500000,
-			"place" : "Harimadhav soc."
-		},
-		{
-			"id" : 2,
-			"area" : "nikol",
-			"price" : 7000000,
-			"place" : "Madhav Banglows"
-		},
-		{
-			"id" : 3,
-			"area" : "Ellisbridge",
-			"price" : 10000000,
-			"place" : "sitanagar soc."
-		},
-		{
-			"id" : 4,
-			"area" : "navarangpura",
-			"price" : 1200000,
-			"place" : "vikaram flat"
-		},
-		{
-			"id" : 5,
-			"area" : "Low garden",
-			"price" : 3500000,
-			"place" : "shivanagar soc."
-		},
-		{
-			"id" : 6,
-			"area" : "ashram road",
-			"price" : 4500000,
-			"place" : "surya tawor"
-		}
-	]
-}
+[
+	{
+		"id" : 1,
+		"area" : "Bapunagar",
+		"price" : 2500000,
+		"place" : "Harimadhav soc."
+	},
+	{
+		"id" : 2,
+		"area" : "nikol",
+		"price" : 7000000,
+		"place" : "Madhav Banglows"
+	},
+	{
+		"id" : 3,
+		"area" : "Ellisbridge",
+		"price" : 10000000,
+		"place" : "sitanagar soc."
+	},
+	{
+		"id" : 4,
+		"area" : "navarangpura",
+		"price" : 1200000,
+		"place" : "vikaram flat"
+	},
+	{
+		"id" : 5,
+		"area" : "Low garden",
+		"price" : 3500000,
+		"place" : "shivanagar soc."
+	},
+	{
+		"id" : 6,
+		"area" : "ashram road",
+		"price" : 4500000,
+		"place" : "surya tawor"
+	}
+]
