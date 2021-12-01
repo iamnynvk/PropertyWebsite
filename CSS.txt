@@ -1,0 +1,11 @@
+flex property : 
+    - display: flex;
+    - flex-direction: column,row,column-reverse,row-reverse;
+    - flex-wrap: wrap,nowrap,wrap-reverse;
+    - flex-flow: row wrap;
+    - justify-content: center,flex-stat,flex-end,space-around,space-between;
+    - align-items: center,flex-stat,flex-end,stretch,baseline;
+    - align-content: space-between,space-arround,stretch,center,flex-stat,flex-end;
+    
+
+
